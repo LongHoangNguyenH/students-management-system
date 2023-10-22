@@ -2,8 +2,8 @@
 
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
 
-![plot](https://github.com/BobsProgrammingAcademy/Student-Management-System/blob/master/students/static/images/homepage.png?raw=true)
-<img src="./images/sms.png" alt="system" width="800">
+
+<img src="./images/sms.png" alt="system" width="600">
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
